@@ -12,6 +12,7 @@ import Reveal from 'reveal.js';
 import Markdown from 'reveal.js/plugin/markdown/markdown.esm.js';
 import Notes from 'reveal.js/plugin/notes/notes.esm.js';
 import Hightlight from 'reveal.js/plugin/highlight/highlight.esm.js';
+import Zoom from 'reveal.js/plugin/zoom/zoom.esm.js';
 
 /**
  * Keynote
@@ -343,7 +344,7 @@ const contentKeynote = /*html*/`
 document.querySelector('#keynote').innerHTML = contentKeynote;
 
 let deck = new Reveal({
-   plugins: [ Markdown, Notes, Hightlight ]
+   plugins: [ Markdown, Notes, Hightlight,Zoom ]
 })
 deck.initialize({
   // The "normal" size of the presentation, aspect ratio will
