@@ -3,38 +3,38 @@
 
 #---------#
 
-
-<div class="container-slide">
-  <div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/otros-kashgari.jpg" alt="Lorem Ipsum">
-      <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074 - Millet Kütüphanesi, Istanbul, Ali Emiri 4189<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
-    </figure>
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1072-1074</li>
+      <li>📜 <em>Dīwān Lughāt</em> </li>
+      <li>👳 <strong>al-Kashgari</strong></li>
+      <li>🏛 Millet Kütüphanesi, Istanbul</li>
+    </ul>
+    <p>Este mapa del mundo aparece como una ilustración de su gramática turca, <em>Dīwān Lughāt al-Turk</em>. </p>
   </div>
-  <div class="l-simple fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/otros-kashgari-transcripcion.png" alt="Lorem Ipsum">
-      <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074 - Transcripción en turco<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
-    </figure>
-  </div>
-  <div class="l-simple fragment fade-in-then-out" style="position:absolute;" data-fragment-index="1">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/otros-kashgari-transcripcion.jpg" alt="Lorem Ipsum">
-      <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074 - Transcripción en inglés<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
-    </figure>
+  <div class="slideContent">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/otros-kashgari.jpg" alt="Lorem Ipsum">
+        <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074. Millet Kütüphanesi, Istanbul, Ali Emiri 4189<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/otros-kashgari-transcripcion.png" alt="Lorem Ipsum">
+        <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074. Transcripción en turco<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in-then-out" style="position:absolute;" data-fragment-index="1">
+      <figure>
+        <img data-src="images/otros-kashgari-transcripcion.jpg" alt="Lorem Ipsum">
+        <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074. Transcripción en inglés<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
   </div>
 </div>
 
-
-<div class="sidebarMedium">
-  <ul>
-    <li>⏳ Manuscrito, 1072-1074</li>
-    <li>📜 <em>Dīwān Lughāt</em> </li>
-    <li>👳 <strong>al-Kashgari</strong></li>
-    <li>🏛 Millet Kütüphanesi, Istanbul</li>
-  </ul>
-  <p>Este mapa del mundo aparece como una ilustración de su gramática turca, <em>Dīwān Lughāt al-Turk</em>. </p>
-</div>
 
 Note:
 
@@ -43,14 +43,13 @@ Note:
 
 #---------#
 
-
-<div class="container-slide">
-  <div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/otros-wardi.jpg" alt="Lorem Ipsum">
-      <figcaption>Kharīdat al-ʻAjā’ib wa Farīdat al-Gharā’ib, 1632 - Library of Congress, G93 .I17 1500z fol.6b-7a<a href="https://lccn.loc.gov/2013415532" target="_blank">🔗</a></figcaption>
-    </figure>
-    <div class="sidebarMedium">
+<div class="containerSlide">
+  <!-- Slide A -->
+  <div class="layout-1col fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <img data-src="images/otros-wardi.jpg" alt="Lorem Ipsum">
+  </div>
+  <div class="wrapperSlide fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
+    <div class="slideText">
       <ul>
         <li>⏳ Manuscrito, 1632</li>
         <li>📜 <em>Kharīdat</em> </li>
@@ -60,14 +59,19 @@ Note:
       </ul>
       <p>Este mapa del mundo aparece como una ilustración de su gramática turca, <em>Dīwān Lughāt al-Turk</em>. </p>
     </div>
+    <div class="slideContent">
+      <figure>
+        <img data-src="images/otros-wardi.jpg" alt="Lorem Ipsum">
+        <figcaption>Kharīdat al-ʻAjā’ib wa Farīdat al-Gharā’ib, 1632 - Library of Congress, G93 .I17 1500z fol.6b-7a<a href="https://lccn.loc.gov/2013415532" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
   </div>
-
-  <div class="l-simple fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/otros-wardi-xvii.jpg" alt="Lorem Ipsum">
-      <figcaption>Kharīdat al-ʻAjā’ib wa Farīdat al-Gharā’ib, s.XVII - Bagdat 179, fol. 52b<a href="https://www.myoldmaps.com/early-medieval-monographs/2141-ibn-al-wardi-world/2141al-wardi.pdf" target="_blank">🔗</a></figcaption>
-    </figure>
-    <div class="sidebarMedium">
+  <!-- Slide B -->
+  <div class="layout-1col fragment fade-in-then-out" style="position:absolute;" data-fragment-index="1">
+      <img data-src="images/otros-wardi-xvii.jpg" alt="Lorem Ipsum">
+  </div>
+  <div class="wrapperSlide fragment fade-in" style="position:absolute;" data-fragment-index="2">
+    <div class="slideText">
       <ul>
         <li>⏳ Manuscrito, S.XVII</li>
         <li>📜 <em>Kharīdat</em> </li>
@@ -76,18 +80,15 @@ Note:
         <li>🏛 Topkapi Saray Museum, Istanbul</li>
       </ul>
       <p>Este mapa del mundo aparece como una ilustración de su gramática turca, <em>Dīwān Lughāt al-Turk</em>. </p>
-    </div>    
+    </div>
+    <div class="slideContent">
+      <figure>
+        <img data-src="images/otros-wardi-xvii.jpg" alt="Lorem Ipsum">
+      <figcaption>Kharīdat al-ʻAjā’ib wa Farīdat al-Gharā’ib, s.XVII - Bagdat 179, fol. 52b<a href="https://www.myoldmaps.com/early-medieval-monographs/2141-ibn-al-wardi-world/2141al-wardi.pdf" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
   </div>
-  <!--
-  <div class="l-simple fragment fade-in-then-out" style="position:absolute;" data-fragment-index="1">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/otros-kashgari-transcripcion.jpg" alt="Lorem Ipsum">
-      <figcaption>Dīwān Lughāt al-Turk, Ṣūrat Al-Arḍ (Imagen del mundo), 1072-1074 - Transcripción en inglés<a href="https://kutuphane.ttk.gov.tr/details?id=594957&materialType=KT&query=Ka%C5%9Fgarl%C4%B1+Mahmud." target="_blank">🔗</a></figcaption>
-    </figure>
-  </div>
-  -->
 </div>
-
 
 Note:
 

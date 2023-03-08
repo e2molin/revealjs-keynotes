@@ -22,24 +22,26 @@ Los estudiosos como Kramers han realizado una clasificación de los textos atend
 
 ### Kitāb al-masālik wa-'l-mamālik (KMMS)
 
-<div class="container-slide">
-  <div class="center-100-100">
-      <figure>
-        <img class="full" data-src="images/islamic-map-balkhi-istakhri-gotha.jpg" alt="Lorem Ipsum">
-        <figcaption>KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), AH 569/[1173] - Forschungsbibliothek in Gotha. MS. Ar. 1521, fols. 4- 5<a href="https://archive.thulb.uni-jena.de/ufb/receive/ufb_cbu_00011296?derivate=ufb_derivate_00010485" target="_blank">🔗</a></figcaption>
-      </figure>
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1173.</li>
+      <li>📜 KMMS, <em>Ṣūrat Al-Arḍ</em> </li>
+      <li>👳 <strong>al-Istakhrī</strong></li>
+      <li>📏 24.6 x 18.8 cm</li>
+      <li>🏛 Forschungsbibliothek, Gotha</li>
+    </ul>
+    <p>Kitāb al-masālik wa-'l-mamālik (Libro de rutas y provincias), KMMS. Segundo manuscrito más antiguo que incluye un compendio de mapas. ⏳ 1086. Los mapas siguen el modelo cartográfico de <strong>al-Istakhrī</strong>, que realizó durante el siglo anterior. El ejemplar correspondiente al mapa mundi de Gotha está muy deteriorado.</p>		  
   </div>
-  <div class="sidebarMedium">
-      <ul>
-        <li>⏳ Manuscrito, 1173.</li>
-        <li>📜 KMMS, <em>Ṣūrat Al-Arḍ</em> </li>
-        <li>👳 <strong>al-Istakhrī</strong></li>
-        <li>📏 24.6 x 18.8 cm</li>
-        <li>🏛 Forschungsbibliothek, Gotha</li>
-      </ul>
-        <p>Kitāb al-masālik wa-'l-mamālik (Libro de rutas y provincias), KMMS. Segundo manuscrito más antiguo que incluye un compendio de mapas. ⏳ 1086. Los mapas siguen el modelo cartográfico de <strong>al-Istakhrī</strong>, que realizó durante el siglo anterior. El ejemplar correspondiente al mapa mundi de Gotha está muy deteriorado.</p>		
+  <div class="slideContent">
+    <figure>
+      <img data-src="images/islamic-map-balkhi-istakhri-gotha.jpg" alt="Lorem Ipsum">
+      <figcaption>KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), AH 569/[1173] - Forschungsbibliothek in Gotha. MS. Ar. 1521, fols. 4- 5<a href="https://archive.thulb.uni-jena.de/ufb/receive/ufb_cbu_00011296?derivate=ufb_derivate_00010485" target="_blank">🔗</a></figcaption>
+    </figure>
   </div>
 </div>
+
+
 Note:
 
 
@@ -49,17 +51,8 @@ Note:
 
 ### Kitāb al-masālik wa-'l-mamālik (KMMS)
 
-<div class="container-slide">
-  <div class="center-100-100">
-    <figure>
-      <img class="full" data-src="images/islamic-map-balkhi-istakhri.jpg" alt="Lorem Ipsum">
-      <figcaption>
-        KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), 589/[1193] - Leiden University Libraries. Cod. Or. 3101, fols. 4- 5
-        <a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a>
-      </figcaption>
-    </figure>
-  </div>
-  <div class="sidebarMedium">
+<div class="wrapperSlide">
+  <div class="slideText">
     <ul>
       <li>⏳ Manuscrito, 1193.</li>
       <li>📜 KMMS, <em>Ṣūrat Al-Arḍ</em> </li>
@@ -67,10 +60,18 @@ Note:
       <li>📏 32 x 22 cm.</li>
       <li>🏛 Leiden University Libraries</li>
     </ul>
-    <p> A principios del siglo XX a raiz de los trabajos de J.H. Kramer, estos compendios de texto y mapas reciben el nombre de Atlas del Islam. Recientemente a ra´zi de los trabajos de Karen C. Pinto, se ha extensido entre los estudios el acrónimo KMMS para referirise a estos documentos. En la terminología de J.H. Kramer, este mapa corresponde a Istakhrī I.</p>
+    <p> A principios del siglo XX a raiz de los trabajos de J.H. Kramer, estos compendios de texto y mapas reciben el nombre de Atlas del Islam. Recientemente a ra´zi de los trabajos de Karen C. Pinto, se ha extensido entre los estudios el acrónimo KMMS para referirise a estos documentos. En la terminología de J.H. Kramer, este mapa corresponde a Istakhrī I.</p>  
+  </div>
+  <div class="slideContent">
+    <figure>
+      <img data-src="images/islamic-map-balkhi-istakhri.jpg" alt="Lorem Ipsum">
+      <figcaption>
+        KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), 589/[1193] - Leiden University Libraries. Cod. Or. 3101, fols. 4- 5
+        <a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a>
+      </figcaption>
+    </figure>
   </div>
 </div>
-
 
 
 Note:
@@ -83,21 +84,8 @@ Los mapas de la ecúmene KMMS se caracterizan por la forma de doble disco o circ
 
 ### Kitāb al-masālik wa-'l-mamālik (KMMS)
 
-
-<div class="container-slide">
-  <div class="center-100-100 fragment fade-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" data-src="images/islamic-map-balkhi-istakhri2.jpg" alt="Lorem Ipsum">
-      <figcaption>KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), 878/[1473] -  Sulemaniye Camii Kutuphanesi, Istanbul, A.S. 2971a, fol. 3a<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a></figcaption>
-    </figure>
-  </div>
-  <div class="center-100-100 fragment fade-in" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" data-src="images/islamic-map-balkhi-istakhri2-trad.jpg" alt="Lorem Ipsum">
-      <figcaption>KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), 878/[1473] -  Transcripción<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a></figcaption>
-    </figure>
-  </div>
-  <div class="sidebarMedium">
+<div class="wrapperSlide">
+  <div class="slideText">
     <ul>
       <li>⏳ Manuscrito, 1473 AD.</li>
       <li>📜 KMMS, <em>Ṣūrat Al-Arḍ</em> </li>
@@ -105,9 +93,24 @@ Los mapas de la ecúmene KMMS se caracterizan por la forma de doble disco o circ
       <li>📏 Diámetro 19.5 cm.</li>
       <li>🏛 Sülemaniye Kütüphanesi, Istanbul</li>
     </ul>
-    <p>Esta versión de la <em>Ṣūrat Al-Arḍ</em> sigue el prototipo de representación cartográfica de <strong>al-Istakhrī</strong> pero con algunas variaciones, por lo que en la terminología de J.H. Kramer, este mapa corresponde a <strong>al-Istakhrī II</strong>. </p>
+    <p>Esta versión de la <em>Ṣūrat Al-Arḍ</em> sigue el prototipo de representación cartográfica de <strong>al-Istakhrī</strong> pero con algunas variaciones, por lo que en la terminología de J.H. Kramer, este mapa corresponde a <strong>al-Istakhrī II</strong>. </p>  
+  </div>
+  <div class="slideContent portrait-img">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri2.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), 878/[1473] -  Sulemaniye Camii Kutuphanesi, Istanbul, A.S. 2971a, fol. 3a<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri2-trad.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Al-Arḍ (Imagen del mundo), 878/[1473] -  Transcripción<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
   </div>
 </div>
+
 
 Note:
 
@@ -128,31 +131,8 @@ s
 
 ### Kitāb al-masālik wa-'l-mamālik (KMMS)
 
-
-<div class="container-slide">	
-  <div class="center-100-100 fragment fade-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-mediterranean-gotha.jpg" alt="Lorem Ipsum">
-      <figcaption>KMMS, Baḥr ar-rūm, mar Mediterráneo, 1173 - 📏 24.6 x 18.8 cm -  Forschungsbibliothek in Gotha. MS. Ar. 1521, fols. 24r<a href="https://archive.thulb.uni-jena.de/ufb/receive/ufb_cbu_00011296?derivate=ufb_derivate_00010485" target="_blank">🔗</a></figcaption>
-    </figure>
-  </div>
-  <div class="center-100-100 fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-mediterranean.jpg" alt="Lorem Ipsum">
-      <figcaption>
-        KMMS, Baḥr ar-rūm, mar Mediterráneo, 1193 - 📏 32 x 22 cm - Leiden University Libraries. Cod. Or. 3101, fols. 16-18<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a>
-      </figcaption>
-    </figure>
-  </div>
-  <div class="center-100-100 fragment fade-in" style="position:absolute;" data-fragment-index="1">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-mediterranean-britishlib.jpg" alt="Lorem Ipsum">
-      <figcaption>
-        KMMS, Baḥr ar-rūm, mar Mediterráneo, s.XIV - 📏 20 x 123.5 cm - British Library. IO Islamic 1026, fol. 1.7r<a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=io_islamic_1026_fs001r" target="_blank">🔗</a>
-      </figcaption>
-    </figure>
-  </div>
-  <div class="sidebarMedium">
+<div class="wrapperSlide">
+  <div class="slideText">
     <ul>
       <li>⏳ Manuscrito, 1193.</li>
       <li>📜 KMMS, <em>Baḥr ar-rūm</em> </li>
@@ -161,7 +141,33 @@ s
       <li>🏛 Leiden University</li>
       <li>🏛 British Library</li>
     </ul>
-    <p> Las tres islas principales: Sicilia, Creta y Chipre. Estrecho de Gibraltar se rerpresenta como un montículo que emerge del mar. </p>
+    <p> 
+      Las tres islas principales: Sicilia, Creta y Chipre. Estrecho de Gibraltar se rerpresenta como un montículo que emerge del mar.
+    </p>  
+  </div>
+  <div class="slideContent portrait-img">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri-mediterranean-gotha.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Baḥr ar-rūm, mar Mediterráneo, 1173 - 📏 24.6 x 18.8 cm -  Forschungsbibliothek in Gotha. MS. Ar. 1521, fols. 24r<a href="https://archive.thulb.uni-jena.de/ufb/receive/ufb_cbu_00011296?derivate=ufb_derivate_00010485" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri-mediterranean.jpg" alt="Lorem Ipsum">
+        <figcaption>
+          KMMS, Baḥr ar-rūm, mar Mediterráneo, 1193 - 📏 32 x 22 cm - Leiden University Libraries. Cod. Or. 3101, fols. 16-18<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a>
+        </figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="1">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri-mediterranean-britishlib.jpg" alt="Lorem Ipsum">
+        <figcaption>
+          KMMS, Baḥr ar-rūm, mar Mediterráneo, s.XIV - 📏 20 x 123.5 cm - British Library. IO Islamic 1026, fol. 1.7r<a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=io_islamic_1026_fs001r" target="_blank">🔗</a>
+        </figcaption>
+      </figure>
+    </div>
   </div>
 </div>
 
@@ -179,42 +185,49 @@ Los mapas regionales de las provincias no están pensados para conectar entre s�
 
 ### Kitāb al-masālik wa-'l-mamālik (KMMS)
 
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1173.</li>
+      <li>📜 KMMS, <em>Baḥr Fārs</em> </li>
+      <li>👳 <strong>al-Istakhrī</strong></li>
+      <li>🏛 Forschungsbibliothek, Gotha</li>
+      <li>🏛 Leiden University</li>
+      <li>🏛 National Museum of Iran</li>
+    </ul>
+    <p>
+      Las tres islas dibujadas son (Jark, Irán), Awal (Bahrain) y Laft (Qishm, estrecho de Ormuz). Los ríos, Tigris hacia arriba, Indo hacia abajo. Entrante superior Mar Rojo. Debajo, golfo Pérsico. China e India en una misma península con el Pico Adán (Sri Lanka) dibujado. Simetría con la hoja mediterránea.
+    </p>  
+  </div>
+  <div class="slideContent portrait-img">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri-persico-gotha.jpg" alt="Lorem Ipsum">
+        <figcaption>
+          Baḥr Fārs, océano Indico - 1173 - 📏 24.6 x 18.8 cm - Forschungsbibliothek in Gotha. MS. Ar. 1521, fols. 4- 5<a href="https://archive.thulb.uni-jena.de/ufb/receive/ufb_cbu_00011296?derivate=ufb_derivate_00010485" target="_blank">🔗</a>
+        </figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri-persico.jpg" alt="Lorem Ipsum">
+        <figcaption>
+          Baḥr Fārs, océano Indico - 1193 - 📏 32 x 22 cm. - Leiden University Libraries. Cod. Or. 3101, fols. 30-31<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a>
+        </figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="1">
+      <figure>
+        <img data-src="images/islamic-map-balkhi-istakhri-persico-al-Nakhjavani.jpg" alt="Lorem Ipsum">
+        <figcaption>
+          Baḥr Fārs, océano Indico - 1325 - ✍ Al-Nakhjavani Ibn Al-Sawaji - National Museum of Iran. Cod. Or. 3101, fols. 41-42<a href="http://irannationalmuseum.ir/Persian-Gulf/masalek%20and%20mamalek.html" target="_blank">🔗</a>
+        </figcaption>
+      </figure>
+    </div>					
 
-<div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-persico-gotha.jpg" alt="Lorem Ipsum">
-    <figcaption>
-      Baḥr Fārs, océano Indico - 1173 - 📏 24.6 x 18.8 cm - Forschungsbibliothek in Gotha. MS. Ar. 1521, fols. 4- 5<a href="https://archive.thulb.uni-jena.de/ufb/receive/ufb_cbu_00011296?derivate=ufb_derivate_00010485" target="_blank">🔗</a>
-    </figcaption>
-  </figure>
+  </div>
 </div>
-<div class="l-simple fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-persico.jpg" alt="Lorem Ipsum">
-    <figcaption>
-      Baḥr Fārs, océano Indico - 1193 - 📏 32 x 22 cm. - Leiden University Libraries. Cod. Or. 3101, fols. 30-31<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a>
-    </figcaption>
-  </figure>
-</div>
-<div class="l-simple fragment fade-in" style="position:absolute;" data-fragment-index="1">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-persico-al-Nakhjavani.jpg" alt="Lorem Ipsum">
-    <figcaption>
-      Baḥr Fārs, océano Indico - 1325 - ✍ Al-Nakhjavani Ibn Al-Sawaji - National Museum of Iran. Cod. Or. 3101, fols. 41-42<a href="http://irannationalmuseum.ir/Persian-Gulf/masalek%20and%20mamalek.html" target="_blank">🔗</a>
-    </figcaption>
-  </figure>
-</div>					
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Manuscrito, 1173.</li>
-    <li>📜 KMMS, <em>Baḥr Fārs</em> </li>
-    <li>👳 <strong>al-Istakhrī</strong></li>
-    <li>🏛 <small>Forschungsbibliothek, Gotha</small></li>
-    <li>🏛 <small>Leiden University</small></li>
-    <li>🏛 <small>National Museum of Iran</small></li>
-  </ul>
-  <p>Las tres islas dibujadas son (Jark, Irán), Awal (Bahrain) y Laft (Qishm, estrecho de Ormuz). Los ríos, Tigris hacia arriba, Indo hacia abajo. Entrante superior Mar Rojo. Debajo, golfo Pérsico. China e India en una misma península con el Pico Adán (Sri Lanka) dibujado. Simetría con la hoja mediterránea.</p>
-</div>
+
 
 Note:
 
@@ -226,22 +239,25 @@ Mapa del océano Índico, conocido en la cartografía islámica como *Baḥr Fā
 
 ### Kitāb al-masālik wa-'l-mamālik (KMMS)
 
-<div class="l-simple">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-balkhi-istakhri-andalus.jpg" alt="Lorem Ipsum">
-    <figcaption> Al Andalus, 1193 - Leiden University Libraries. Cod. Or. 3101, fols. 20-21<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Manuscrito, 1193.</li>
-    <li>📜 KMMS, <em>Al-Andalus</em> </li>
-    <li>👳 <strong>al-Istakhrī</strong></li>
-    <li>📏 32 x 22 cm.</li>
-    <li>🏛 Leiden University Libraries</li>
-  </ul>
-  <p>Al-Andalus y el norte de África</p>
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1193</li>
+      <li>📜 KMMS, <em>Al-Andalus</em> </li>
+      <li>👳 <strong>al-Istakhrī</strong></li>
+      <li>📏 32 x 22 cm.</li>
+      <li>🏛 Leiden University Libraries</li>
+    </ul>
+    <p>Al-Andalus y el norte de África</p>  
+  </div>
+  <div class="slideContent">
+      <figure>
+        <img class="full"  data-src="images/islamic-map-balkhi-istakhri-andalus.jpg" alt="Lorem Ipsum">
+        <figcaption> Al Andalus, 1193 - Leiden University Libraries. Cod. Or. 3101, fols. 20-21<a href="https://digitalcollections.universiteitleiden.nl/view/item/1577846#page/3/mode/2up" target="_blank">🔗</a></figcaption>
+      </figure>
+  </div>
 </div>
+
 
 Note:
 

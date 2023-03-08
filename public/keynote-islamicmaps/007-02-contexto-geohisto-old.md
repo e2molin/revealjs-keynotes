@@ -1,44 +1,41 @@
-### Contexto Geográfico Histórico
-
-<div class="wrapperSlide">
-  <div class="slideText">
-    <ul>
-      <li>Imperio Bizantino</li>
+<div class="container-slide">
+<figure style="position:absolute;">
+  <img class="full" style="max-height:70vh" data-src="images/assets-Arabia.jpg" alt="Lorem Ipsum">
+  <figcaption>Arabia, Æetiopia, Ægiptus - Atlas Antiquus, 1865 - Spruner <a href="https://www.ign.es/web/catalogo-cartoteca/resources/html/009155.html" target="_blank">🔗</a></figcaption>
+</figure>
+<div class="fragment fade-in" style="position:absolute;">
+  <figure>
+    <img class="full" style="max-height:70vh" data-src="images/assets-Arabia-contexto-histo.png" alt="Lorem Ipsum">
+    <figcaption></figcaption>
+  </figure>
+</div>						
+  <div class="sidebarTop">
+      <h4>Contexto Geográfico Histórico</h4>
       <ul>
-        <li>Gasánidas ⛪️ monofisitas</li>
+        <li>Imperio Bizantino</li>
+        <ul>
+          <li>Gasánidas ⛪️ monofisitas</li>
+        </ul>
+        <li>Imperio Sasánida</li>
+        <ul>
+          <li>Lájmidas ⛪️ nestorianos</li>
+        </ul>        
+        <li>Reino de Himyar</li>
+        <li>Reino de Aksum</li>
       </ul>
-      <li>Imperio Sasánida</li>
+      <hr/>
+      <h5>La Meca</h5>
       <ul>
-        <li>Lájmidas ⛪️ nestorianos</li>
-      </ul>        
-      <li>Reino de Himyar</li>
-      <li>Reino de Aksum</li>
-    </ul>
-    <p>La Meca</p>
-    <ul>
-      <li>Fundación 👉 Ismael (Abraham)</li>
-      <li>Encrucijada comercial</li>
-      <li>⏳<strong>570</strong> <em>Curaisíes</em> controlan</li>
-      <ul>
-        <li>Centro peregrinación</li>
-        <li>Ídolos 👉 La Kaaba 🕋</li>
-      </ul>
-    </ul>
-  </div>
-  <div class="slideContent">
-    <figure style="position:absolute;">
-      <img data-src="images/assets-Arabia.jpg" alt="Lorem Ipsum">
-      <figcaption>Arabia, Æetiopia, Ægiptus - Atlas Antiquus, 1865 - Spruner <a href="https://www.ign.es/web/catalogo-cartoteca/resources/html/009155.html" target="_blank">🔗</a></figcaption>
-    </figure>
-    <div class="fragment fade-in" style="position:absolute;">
-      <figure>
-        <img  data-src="images/assets-Arabia-contexto-histo.png" alt="Lorem Ipsum">
-        <figcaption></figcaption>
-      </figure>
-    </div>						
+        <li>Fundación 👉 Ismael (Abraham)</li>
+        <li>Encrucijada comercial</li>
+        <li>⏳<strong>570</strong> <em>Curaisíes</em> controlan</li>
+        <ul>
+          <li>Centro peregrinación</li>
+          <li>Ídolos 👉 La Kaaba 🕋</li>
+        </ul>        
+      </ul>  
   </div>
 </div>
-
 
 Note:
 
@@ -59,10 +56,16 @@ Descripción de los pueblos que habitan en el interior de Arabia.
 
 #---------#
 
-### Mahoma
-
-<div class="wrapperSlide">
-  <div class="slideText">
+<div class="container-slide">
+  <div class="l-simple">
+    <figure>
+      <img class="full" style="max-height:60vh" data-src="images/assets-expansion-islamica-mapa.jpg" alt="Lorem Ipsum">
+      <figcaption>Expansión del mundo islámico - Producción propia</figcaption>
+    </figure>
+    <div class="sidebarMedium">
+      <p>
+        Vida de Mahoma
+      </p>
       <ul>
         <li>⏳<strong>570</strong> Nace</li>
         <li>⏳<strong>595</strong> 💍 Jadiya 🍼 Fátima</li>
@@ -83,19 +86,19 @@ Descripción de los pueblos que habitan en el interior de Arabia.
         <li>⏳<strong>632</strong> Muere</li>
         <li>⏳<strong>632</strong> Abu Bakr primer califa</li>
       </ul>
-      <hr/>
-      <ul>
-        <li>🕌 Califato Rashidun, ⏳632-661</li>
-        <li>🕌 Califato Omeya, ⏳663-750</li>
-        <li>🕌 Califato Abasida, ⏳750-945/1258</li>
-        <li>🕌 Califato Fatimí, ⏳909-1171</li>
-      </ul>
-  </div>
-  <div class="slideContent">
-    <figure>
-      <img class="full" style="max-height:60vh" data-src="images/assets-expansion-islamica-mapa.jpg" alt="Lorem Ipsum">
-      <figcaption>Expansión del mundo islámico - Producción propia</figcaption>
-    </figure>
+      <p>
+        🕌 Califato Rashidun, ⏳632-661
+      </p>
+      <p>
+        🕌 Califato Omeya, ⏳663-750
+      </p>
+      <p>
+        🕌 Califato Abasida, ⏳750-945/1258
+      </p>
+      <p>
+        🕌 Califato Fatimí, ⏳909-1171
+      </p>      
+    </div>
   </div>
 </div>
 
@@ -118,3 +121,4 @@ Las autoridades *quraysíes* se enfrentan a Mahoma. En **621** Mahoma hace un [v
 La ciudad de **Medina** se convierte al Islam y se firma el **Pacto de Aqaba**, que avala la guerra santa contra los infieles (ateos y paganos), no contra judíos y cristianos que son las *Gentes del Libro* ni contra los zoroastrianos, que junto con los dos primeros forman el grupo de los *dimmis*. Básicamente, es la respuesta al rechazo de los árabes politeístas a las enseñanzas de Mahoma.
 
 Hostilidad en **La Meca** por los *quraysíes* 👉 Mahoma huye a Medina en la Hégira el año 622 👉 Comienzo del calendario musulmán 👉 Para los *quraysíes* abandonar el clan es traición. Mahoma quiere que se unan judíos y cristanos de MEdina a él como último profeta, pero no convence  👉 Masacre de judíos y cristianos
+

@@ -1,26 +1,27 @@
 ### Abu Abdallah Muḥammad ibn Mūsā al-Khwārizmī
-<div class="container-slide">
-	<div class="vertical-50-50 fragment fade-out" style="position:absolute;" data-fragment-index="0">
+
+<div class="containerSlide">
+	<div class="layout-2col fragment fade-out" style="position:absolute;" data-fragment-index="0">
 		<figure>
-								<img class="plain" style="max-height:60vh" data-src="images/khwarizmi.png" alt="Override">
-								<figcaption>
-									Estatua de al-Khwarizmi en Amirkabir University, Teherán
-									<a href="https://commons.wikimedia.org/wiki/File:Khwarizmi_Amirkabir_University_of_Technology.png" target="_blank">🔗</a>
-								</figcaption>
+			<img class="plain" data-src="images/khwarizmi.png" alt="Override">
+			<figcaption>
+				Estatua de al-Khwarizmi en Amirkabir University, Teherán
+				<a href="https://commons.wikimedia.org/wiki/File:Khwarizmi_Amirkabir_University_of_Technology.png" target="_blank">🔗</a>
+			</figcaption>
 		</figure>
+		<ul>
+			<li>👳 Abu Abdallah Muḥammad ibn Mūsā <strong>al-Khwārizmī</strong></li>
+			<li>⏳ Matemático, astrónomo y geógrafo persa, 780-850</li>
+			<li>📕 <em>Kitab Surat-al-Ard</em> en ⏳833</li>
+			<li>Correcciones obra de Ptolomeo</li>
 			<ul>
-				<li>👳 Abu Abdallah Muḥammad ibn Mūsā <strong>al-Khwārizmī</strong></li>
-				<li>⏳ Matemático, astrónomo y geógrafo persa, 780-850</li>
-				<li>📕 <em>Kitab Surat-al-Ard</em> en ⏳833</li>
-				<li>Correcciones obra de Ptolomeo</li>
-				<ul>
-					<li>Anchura del Mediterráneo</li>
-					<li>Atlántico e Índico abiertos</li>
-				</ul>
-				<li>Participó en el proyecto de mapa de Ma’mun</li>
+				<li>Anchura del Mediterráneo</li>
+				<li>Atlántico e Índico abiertos</li>
 			</ul>
+			<li>Participó en el proyecto de mapa de Ma’mun</li>
+		</ul>
 	</div>
-	<div class="multiple-3x1 fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
+	<div class="layout-3col fragment fade-in-then-out" style="position:absolute;" data-fragment-index="0">
 		<figure>
 			<img class="plain"  data-src="images/khwarizmi-caspio.jpg" alt="" title="">
 			<figcaption>
@@ -52,15 +53,15 @@
 			</figcaption>
 		</figure>
 	</div>
-	<div class="center-100-100 fragment fade-in" style="position:absolute;" data-fragment-index="1">
+	<div class="layout-1col fragment fade-in" style="position:absolute;" data-fragment-index="1">
 		<figure>
-					<img class="plain" style="max-height:60vh" data-src="images/khwarizmi-nilo.jpg" alt="Override">
+					<img class="plain" style="max-height:55vh" data-src="images/khwarizmi-nilo.jpg" alt="Override">
 					<figcaption>
 						Río Nilo - 1037 - Bibliothèque Nationale et Universitaire de Strasbourg - Ms. 4247, Fols. 030v-31 
 						<a href="https://bvmm.irht.cnrs.fr/iiif/17086/canvas/canvas-1421995/view" target="_blank">🔗</a>
 					</figcaption>
 		</figure>
-	</div>
+	</div>	
 </div>
 
 						

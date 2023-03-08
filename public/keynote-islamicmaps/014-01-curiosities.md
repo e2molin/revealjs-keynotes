@@ -17,27 +17,60 @@ El autor combina elementos de la cartografía ptolemaica como la división en cl
 ### Libro de las Curiosidades - Mediterráneo
 
 
-<div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-mediterranean.jpg" alt="Lorem Ipsum">
-    <figcaption>1020-1050 - Mapa del mar Mediterráneo, Libro de las Curiosidades - MS. Arab. c. 90, fols. 30b–31a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/d6fc79a9-a87a-48cb-aebe-edd36c2158c6" target="_blank">🔗</a></figcaption>
-  </figure>
+<div class="containerSlide">
+  <div class="layout-1col fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <img data-src="images/bookcuriosities-sicilia.jpg" alt="Lorem Ipsum">
+  </div>
+  <div class="wrapperSlide fragment fade-in" style="position:absolute;" data-fragment-index="0">
+    <div class="slideText">
+      <ul>
+        <li>⏳ 1190-1210</li>
+        <li>📜 Sicilia</li>
+        <li>👳 Anónimo</li>
+        <li>🏛 Bodleian Library, Oxford</li>
+      </ul>
+      <p>Palermo era la capital del Emirato de Sicilia, establecido en la isla italiana entre  965 y 1072. Hasta su caida por parte de los normandos. En la época original del manuscrito era un importante enclave islámico en el centro del Mediterráneo. La ciudad de Palermo se representa con un círculo rojo en la parte superior. El monte Etna aparece representado como un cono volcánico del que salen llamas.</p>
+    </div>
+    <div class="slideContent">
+      <figure>
+        <img data-src="images/bookcuriosities-sicilia.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050. Mapamundo rectangular, Libro de las Curiosidades. Ms. Arab. c. 90, fols. 32b–33a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/b1c0ac35-45f5-4dd2-9ffd-f5d2b959843f" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+  </div>
 </div>
-<div class="l-simple fragment fade-in" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-mediterranean-trad.jpg" alt="Lorem Ipsum">
-    <figcaption>1020-1050 - Mapa del mar Mediterráneo, Libro de las Curiosidades - Traducción<a href="https://digital.bodleian.ox.ac.uk/inquire/p/d6fc79a9-a87a-48cb-aebe-edd36c2158c6" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ 1190-1210</li>
-    <li>📜 Mar Mediterráneo</li>
-    <li>👳 Anónimo</li>
-    <li>🏛 Bodleian Library, Oxford</li>
-  </ul>
-  <p>El manuscrito fue realizado en Egipto en el siglo XII, copiado de un manuscrito anterior de la primera mitad del siglo XI. Contiene una serie de mapas de los cielos y la tierra.</p>
-</div>		
+
+
+#---------#
+
+
+<div class="wrapperSlideHorizontal">
+  <div class="slideText">
+    <ul>
+      <li>⏳ 1190-1210</li>
+      <li>📜 Mar Mediterráneo</li>
+      <li>👳 Anónimo</li>
+      <li>🏛 Bodleian Library, Oxford</li>
+    </ul>
+    <p>El manuscrito fue realizado en Egipto en el siglo XII, copiado de un manuscrito anterior de la primera mitad del siglo XI. Contiene una serie de mapas de los cielos y la tierra.</p>
+  </div>
+  <div class="slideContent">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img  data-src="images/bookcuriosities-mediterranean.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050. Mapa del mar Mediterráneo, Libro de las Curiosidades. MS. Arab. c. 90, fols. 30b–31a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/d6fc79a9-a87a-48cb-aebe-edd36c2158c6" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img  data-src="images/bookcuriosities-mediterranean-trad.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050. Mapa del mar Mediterráneo, Libro de las Curiosidades. Traducción<a href="https://digital.bodleian.ox.ac.uk/inquire/p/d6fc79a9-a87a-48cb-aebe-edd36c2158c6" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
+
+
 
 Note:
 
@@ -51,25 +84,33 @@ Mediante puntos rojos se muestran los puertos alrededor de la costa del Mediterr
 
 ### Mapamundi rectángular
 
-<figure style="position:absolute;">
-  <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-worldmap.jpg" alt="Lorem Ipsum">
-  <figcaption>1020-1050 - Mapamundi rectangular, Libro de las Curiosidades - Ms. Arab. c. 90, fols. 23b–24a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/48645929-93bb-4629-8e1e-e1747ddca04f" target="_blank">🔗</a></figcaption>
-</figure>
-<div class="fragment fade-in" style="position:absolute;">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-worldmap-trad.png" alt="Lorem Ipsum">
-    <figcaption></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ 1190-1210</li>
-    <li>📜 Mapamundi</li>
-    <li>👳 Anónimo</li>
-    <li>🏛 Bodleian Library, Oxford</li>
-  </ul>
-  <p>Sorprende de este mapa  su forma rectangular, en contraste con los típicos mapas del mundo islámicos de forma circular, y su abundante toponimia.</p>
+<div class="wrapperSlideHorizontal">
+  <div class="slideText">
+    <ul>
+      <li>⏳ 1190-1210</li>
+      <li>📜 Mapamundi</li>
+      <li>👳 Anónimo</li>
+      <li>🏛 Bodleian Library, Oxford</li>
+    </ul>
+    <p>Sorprende de este mapa  su forma rectangular, en contraste con los típicos mapas del mundo islámicos de forma circular, y su abundante toponimia.</p>
+  </div>
+  <div class="slideContent">
+    <div style="position:absolute;" >
+      <figure>
+        <img  data-src="images/bookcuriosities-worldmap.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050. Mapamundi rectangular, Libro de las Curiosidades. Ms. Arab. c. 90, fols. 23b–24a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/48645929-93bb-4629-8e1e-e1747ddca04f" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="1">
+      <figure>
+        <img  data-src="images/bookcuriosities-worldmap-trad.png" alt="Lorem Ipsum">
+        <figcaption></figcaption>
+      </figure>
+    </div>
+  </div>
 </div>
+
+
 
 Note:
 
@@ -79,80 +120,78 @@ El manuscrito original se sitúa en la primera mitad del siglo XI. Describe los 
 
 El papel del manuscrito concuerda con el producido en Egipto y la Gran Siria en los siglos XIII y XIV. Suave, opaco y robusto. Sin marcas de agua. Las líneas tendidas son 6-7 alambres / cm, con el espacio entre líneas menor que el ancho de una línea. El papel parece haber sido hecho usando un molde de hierba.
 
-
 #---------#
-
 
 ### Mapamundi circular
 
-<div class="l-simple">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-circularworld.jpg" alt="Lorem Ipsum">
-    <figcaption>1020-1050 - Mapamundi circular, Libro de las Curiosidades - Ms. Arab. c. 90, fols. 27b–28a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/9fb56203-ad71-4a99-bd74-aacf3c381dae" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ 1190-1210</li>
-    <li>📜 Mapamundi</li>
-    <li>👳 Anónimo</li>
-    <li>🏛 Bodleian Library, Oxford</li>
-  </ul>
-  <p></p>
+<div class="containerSlide">
+  <div class="layout-1col">
+      <figure>
+        <img data-src="images/bookcuriosities-circularworld.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050 - Mapamundi circular, Libro de las Curiosidades - Ms. Arab. c. 90, fols. 27b–28a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/9fb56203-ad71-4a99-bd74-aacf3c381dae" target="_blank">🔗</a></figcaption>
+      </figure>
+  </div>
 </div>
+
 
 Note:
 
 El Libro de las Curiosidades también tiene el mapamundi circular habitual en los mapas islámicos. El Nilo aparece con los habituales montes de la Luna marcando su nacimiento. 
 
-
-
 #---------#
-
 
 ### Libro de las Curiosidades - Sicilia
 
-<div class="l-simple">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-sicilia.jpg" alt="Lorem Ipsum">
-    <figcaption>1020-1050 - Mapamundo rectangular, Libro de las Curiosidades - Ms. Arab. c. 90, fols. 32b–33a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/b1c0ac35-45f5-4dd2-9ffd-f5d2b959843f" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ 1190-1210</li>
-    <li>📜 Sicilia</li>
-    <li>👳 Anónimo</li>
-    <li>🏛 Bodleian Library, Oxford</li>
-  </ul>
-  <p>Palermo era la capital del Emirato de Sicilia, establecido en la isla italiana entre  965 y 1072. Hasta su caida por parte de los normandos. En la época original del manuscrito era un importante enclave islámico en el centro del Mediterráneo. La ciudad de Palermo se representa con un círculo rojo en la parte superior. El monte Etna aparece representado como un cono volcánico del que salen llamas.</p>
-</div>		
-
+<div class="containerSlide">
+  <div class="layout-1col fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <img data-src="images/bookcuriosities-sicilia.jpg" alt="Lorem Ipsum">
+  </div>
+  <div class="wrapperSlide fragment fade-in" style="position:absolute;" data-fragment-index="0">
+    <div class="slideText">
+      <ul>
+        <li>⏳ 1190-1210</li>
+        <li>📜 Sicilia</li>
+        <li>👳 Anónimo</li>
+        <li>🏛 Bodleian Library, Oxford</li>
+      </ul>
+      <p>Palermo era la capital del Emirato de Sicilia, establecido en la isla italiana entre  965 y 1072. Hasta su caida por parte de los normandos. En la época original del manuscrito era un importante enclave islámico en el centro del Mediterráneo. La ciudad de Palermo se representa con un círculo rojo en la parte superior. El monte Etna aparece representado como un cono volcánico del que salen llamas.</p>
+    </div>
+    <div class="slideContent">
+      <figure>
+        <img data-src="images/bookcuriosities-sicilia.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050. Mapamundo rectangular, Libro de las Curiosidades. Ms. Arab. c. 90, fols. 32b–33a<a href="https://digital.bodleian.ox.ac.uk/inquire/p/b1c0ac35-45f5-4dd2-9ffd-f5d2b959843f" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
 
 #---------#
 
-
 ### Libro de las Curiosidades - Río Indo
 
-<div class="l-simple">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-indo.jpg" alt="Lorem Ipsum">
-    <figcaption>1020-1050 - Río Indo, Libro de las Curiosidades - Ms. Arab. c. 90, fol. 43b<a href="https://digital.bodleian.ox.ac.uk/inquire/p/4b20c0c3-5f52-45ef-8831-735d94269f73" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ 1190-1210</li>
-    <li>📜 Río Indo</li>
-    <li>👳 Anónimo</li>
-    <li>🏛 Bodleian Library, Oxford</li>
-  </ul>
-  <p>Mapa hidrográfico del río Indo y sus afluentes, mostrando su recorrido desde las montañas tibetanas al océano Índico.</p>
+<div class="containerSlide">
+  <div class="layout-1col fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <img data-src="images/bookcuriosities-indo.jpg" alt="Lorem Ipsum">
+  </div>
+  <div class="wrapperSlide fragment fade-in" style="position:absolute;" data-fragment-index="0">
+    <div class="slideText">
+      <ul>
+        <li>⏳ 1190-1210</li>
+        <li>📜 Río Indo</li>
+        <li>👳 Anónimo</li>
+        <li>🏛 Bodleian Library, Oxford</li>
+      </ul>
+      <p>Mapa hidrográfico del río Indo y sus afluentes, mostrando su recorrido desde las montañas tibetanas al océano Índico.</p>
+    </div>
+    <div class="slideContent">
+      <figure>
+        <img class="full" style="max-height:60vh" data-src="images/bookcuriosities-indo.jpg" alt="Lorem Ipsum">
+        <figcaption>1020-1050 - Río Indo, Libro de las Curiosidades - Ms. Arab. c. 90, fol. 43b<a href="https://digital.bodleian.ox.ac.uk/inquire/p/4b20c0c3-5f52-45ef-8831-735d94269f73" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+  </div>
 </div>
 
 Note:
 
 Mapa hidrográfico del río Indo y sus afluentes, mostrando su recorrido desde las montañas tibetanas al océano Índico. Las montañas tibetanas aparecen en rojo. Destaca la ubicación de Mansurah, sitiada en el delta del Indo. El mapa tiene el trazado de dos rutas caravaneras hacia China, mostrando las ciudades de paso con puntos rojos.
-
-
-

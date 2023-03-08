@@ -35,13 +35,8 @@ La dinastía abasí estaba arraigada en la zona persa del mundo musulmán, donde
 
 ### La Casa de la Sabiduría - *Bayt al-Hikmah* 
 
-<div class="container-slide">
-	<div class="double-v">
-		<figure>
-			<img class="plain" style="max-height:60vh;" data-src="images/assets-casa-sabiduria.jpg" alt="Lorem ipsum">
-			<figcaption>BnF - Codex Parisinus Arabus 5847, fol. 5v<a href="https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f20" target="_blank">🔗</a></figcaption>
-		</figure>
-		<div style="max-width: 100%;">
+<div class="wrapperSlide">
+  <div class="slideText">
 			<ul>
 				<li>Baghdad</li>
 				<li><strong>Al-Rashid</strong> 🌄 - <strong>Al-Mamún</strong> 🏁</li>
@@ -54,10 +49,14 @@ La dinastía abasí estaba arraigada en la zona persa del mundo musulmán, donde
 				</ul>
 				<li>Papel chino ️🀄️. Pluma sobre pincel.</li>
 			</ul>
-		</div>
-	</div>	
+  </div>
+  <div class="slideContent">
+  		<figure>
+			<img class="plain" style="max-height:60vh;" data-src="images/assets-casa-sabiduria.jpg" alt="Lorem ipsum">
+			<figcaption>BnF - Codex Parisinus Arabus 5847, fol. 5v<a href="https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f20" target="_blank">🔗</a></figcaption>
+			</figure>
+  </div>
 </div>
-
 
 Note:
 
@@ -72,8 +71,8 @@ El papel será una de las innovaciones tecnológicas que hará posible todo esto
 ### El papel 📜
 
 
-<div class="container-slide">
-	<div class="vertical-60-40">
+<div class="containerSlide">
+	<div class="layout-col-40-60">
 		<ul>
 			<li>Conquista del Imperio sasánida (Persia) 👇</li>
 			<ul>
@@ -84,7 +83,7 @@ El papel será una de las innovaciones tecnológicas que hará posible todo esto
 			<li><strong>Batalla de Talas</strong> ⏳750 👉 Prisioneros chinos traen técnica del papel</li>
 		</ul>
 		<figure>
-			<img class="plain" style="max-height:50vh" data-src="images/papel.jpg" alt="Override">
+			<img  data-src="images/papel.jpg" alt="Override">
 			<figcaption>Fabricación de papel, Add Or Ms 1699 - British Library<a href="https://britishlibrary.typepad.co.uk/collectioncare/2015/04/making-islamic-style-paper.html" target="_blank">🔗</a></figcaption>
 		</figure>
 	</div>	
@@ -109,10 +108,11 @@ Mejoras técnicas. Mejoran el papel chino añadiendo corteza de morera y almidó
 
 ### DINASTÍA ABASÍ - CULTURA y CIENCIA
 
-<div class="container-slide">
-	<div class="vertical-40-60">
+
+<div class="containerSlide">
+	<div class="layout-col-40-60">
 			<figure>
-				<img class="plain" style="max-height:50vh" src="images/assets-persian-pabilion-vienna.jpg" alt="Lorem Ipsum">
+				<img src="images/assets-persian-pabilion-vienna.jpg" alt="Lorem Ipsum">
 				<figcaption>UNO City - Viena<a href="https://commons.wikimedia.org/wiki/File:Persian_Scholar_pavilion_in_Viena_UN_(Biruni).jpg" target="_blank">🔗</a></figcaption>
 			</figure>
 			<ul>
@@ -159,17 +159,19 @@ Los califas de la dinastía Abásida fundada en el 750 llamaron a estos sirios a
 
 ### El astrolabio
 
-<div class="vertical-50-50">
-	<figure>
-		<img class="plain" style="max-height:70vh" data-src="images/islamic-astrolabio.jpg" alt="Lorem Ipsum">
-		<figcaption>Astrolabio de ibn Sa'id al-Shali, Toledo, 1067. MAN de Madrid <a href="https://commons.wikimedia.org/wiki/File:Astrolabio_(16787706916).jpg" target="_blank">🔗</a></figcaption>
-	</figure>
-	<ul>
-		<li>El <em>miḥrâb</em> de la mezquita se orienta según la <em>Qibla</em> o dirección hacia La Meca 🕋.</li>
-		<li>Matemático Muhammad al-Fazari (fl.790-806), primer astrolabio.</li>
-		<li>Tablas de ortos (amanecer) 🌄 y ocasos 🌇 de multitud de estrellas para las horas del <em>salat</em> 🙏 (rezo).</li>
-		<li><strong>Abd al-Rahman al-Sufi</strong> 📘 los 1000 usos de un astrolabio.</li>
-	</ul>
+<div class="containerSlide">
+  <div class="layout-2col">
+		<figure>
+			<img data-src="images/islamic-astrolabio.jpg" alt="Lorem Ipsum">
+			<figcaption>Astrolabio de ibn Sa'id al-Shali, Toledo, 1067. MAN de Madrid <a href="https://commons.wikimedia.org/wiki/File:Astrolabio_(16787706916).jpg" target="_blank">🔗</a></figcaption>
+		</figure>
+		<ul>
+			<li>El <em>miḥrâb</em> de la mezquita se orienta según la <em>Qibla</em> o dirección hacia La Meca 🕋.</li>
+			<li>Matemático Muhammad al-Fazari (fl.790-806), primer astrolabio.</li>
+			<li>Tablas de ortos (amanecer) 🌄 y ocasos 🌇 de multitud de estrellas para las horas del <em>salat</em> 🙏 (rezo).</li>
+			<li><strong>Abd al-Rahman al-Sufi</strong> 📘 los 1000 usos de un astrolabio.</li>
+		</ul>
+  </div>
 </div>
 
 Note:
@@ -183,19 +185,20 @@ La distribución de los rezos a lo largo del día precisa de su medición.
 
 ### La brújula 🧭
 
-<div class="vertical-50-50">
-  <ul>
-		<li>1232: primera referencia a una brujula en un viaje por el Mar Rojo y el golfo Pérsico. Artefacto de origen chino.</li>
-		<li>1242: <strong>Baylak al-Qibjāqī</strong> describe el uso de agujas imantadas en un viaje de Siria a Alejandría.</li>
-		<li>Siglo XIV: <strong>Ibn al-Shatir </strong> inventa la <em>ṣandūq al‐yawāqīt</em> (caja mágica), encerrando la aguja imantada en una caja con un dial con subdivisiones. Se empieza a utilizar la rosa de los vientos con 32 rumbos.</li>
-		<li>Siglo XV: <strong>Ahmad ibn Mājid</strong> describe los principios básicos de navegación con brújula, incluyendo el concepto de declinación magnética.</li>
-  </ul>
-  <figure>
-		<img class="plain" style="max-height:50vh" data-src="images/islamic-compass.png" alt="Lorem Ipsum">
-		<figcaption>
-			Dial de brújula y Qibla. Manuscrito de Al-Ashref. Yemen, 1293
-			<a href="https://commons.wikimedia.org/wiki/File:Al-Ashraf_compass_and_qibla_diagram.png" target="_blank">🔗</a>
-		</figcaption>
-	</figure>
+<div class="containerSlide">
+  <div class="layout-2col">
+		<ul>
+			<li>1232: primera referencia a una brujula en un viaje por el Mar Rojo y el golfo Pérsico. Artefacto de origen chino.</li>
+			<li>1242: <strong>Baylak al-Qibjāqī</strong> describe el uso de agujas imantadas en un viaje de Siria a Alejandría.</li>
+			<li>Siglo XIV: <strong>Ibn al-Shatir </strong> inventa la <em>ṣandūq al‐yawāqīt</em> (caja mágica), encerrando la aguja imantada en una caja con un dial con subdivisiones. Se empieza a utilizar la rosa de los vientos con 32 rumbos.</li>
+			<li>Siglo XV: <strong>Ahmad ibn Mājid</strong> describe los principios básicos de navegación con brújula, incluyendo el concepto de declinación magnética.</li>
+		</ul>
+		<figure>
+			<img class="plain" style="max-height:50vh" data-src="images/islamic-compass.png" alt="Lorem Ipsum">
+			<figcaption>
+				Dial de brújula y Qibla. Manuscrito de Al-Ashref. Yemen, 1293
+				<a href="https://commons.wikimedia.org/wiki/File:Al-Ashraf_compass_and_qibla_diagram.png" target="_blank">🔗</a>
+			</figcaption>
+		</figure>
+  </div>
 </div>
-

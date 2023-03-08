@@ -1,15 +1,16 @@
-### Escuela de geografía de al-Balkhī
+### EEscuela de geografía de al-Balkhī
 
 #### Abu Zayd Ahmed ibn Sahl Balkhī
-						
-<div class="vertical-50-50">
-	<figure>
-		<img class="plain" style="max-height:80vh" data-src="images/islamic-map-balkhi-climas.jpg" alt="Non-key areas of image blurred out">
-		<figcaption>
-			Balkhī mapamundi, 1413 - Topkapi Saray Museum, Instanbul, Baghdad 411,fols.141b-142a
-			<a href="https://commons.wikimedia.org/wiki/File:Al-Ashraf_compass_and_qibla_diagram.png" target="_blank">🔗</a>
-		</figcaption>
-	</figure>
+
+<div class="containerSlide">
+	<div class="layout-2col">
+		<figure>
+			<img data-src="images/islamic-map-balkhi-climas.jpg" alt="Non-key areas of image blurred out">
+			<figcaption>
+				Balkhī mapamundi, 1413 - Topkapi Saray Museum, Instanbul, Baghdad 411,fols.141b-142a
+				<a href="https://commons.wikimedia.org/wiki/File:Al-Ashraf_compass_and_qibla_diagram.png" target="_blank">🔗</a>
+			</figcaption>
+		</figure>
 		<ul>
 			<li>👳 Abu Zayd Ahmed ibn Sahl <strong>al-Balkhī</strong></li>
 			<li>⏳ Geógrafo persa, 850-934</li>
@@ -25,8 +26,10 @@
 			</ul>
 			<li>Atlas del Islam ó Mapas KMMS</li>
 		</ul>
-</div>
-						
+	</div>
+</div>	
+
+
 Note:
 
 La Escuela Balkhi en Bagdad surge como respuesta a la necesidad de disponer de un lugar para la formación y la enseñanza de la Geografía. Estudian en profundidad las gentes, costumbres y productos del mundo musulmán, con poco interés en el resto del mundo. Sus productos principales son colecciones de mapas regionales, unos veinte, acompañados de un mapa del mundo, siguiendo una distribución similar al canon ptolemaico. Posible influencia en cuanto al estipo de publicación. Los estudiosos de la cartografía islámica se dividen en dos grupos según la terminología utilizada. **Konrad Miller** los denomina *Atlas del Islam* de la escuela de Al-Balkhi, mientras que **Karen Pinto** los denomomina mapas KMMS por la obra de Istakhri *Kitāb al-Masālik wa-al Mamālik*, a la que añade la letra S por la palabra *Ṣūrat* que significa «imagen» en árabe. Son colecciones de mapas compuestas generalmente por 21 documentos: un mapa del mundo, tres mapas del mar mediterráneo, golfo Pérsico y el mar Caspio y 17 mapas sueltos con las provincias del califato abasí, por lo que provincias del antiguo califato omeya como Ifriqiya y Al-Ándalus a veces carecen de hojas propias. Los mapas en hojas sueltas carecen de proyección y escala uniforme y no pueden unirse entre sí.

@@ -1,36 +1,36 @@
 ### Técnicas y materiales
 						
-<div class="multiple-4x2">
+<div class="layout-4x2">
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-papel.jpg" alt="Non-key areas of image blurred out">
+		<img data-src="images/islamic-materials-papel.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Papel y pergamino</figcaption>
 	</figure>
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-qalam.jpg" alt="Non-key areas of image blurred out">
+		<img data-src="images/islamic-materials-qalam.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Qalam</figcaption>
 	</figure>
 	<figure>
-		<img class="plain"" data-src="images/islamic-materials-negro.jpg" alt="Non-key areas of image blurred out">
+		<img  data-src="images/islamic-materials-negro.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Negro carbón</figcaption>
 	</figure>							
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-lapislazuli.jpg" alt="Non-key areas of image blurred out">
+		<img  data-src="images/islamic-materials-lapislazuli.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Lapislazuli - Azul</figcaption>
 	</figure>	
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-cinabrio.jpg" alt="Non-key areas of image blurred out">
+		<img  data-src="images/islamic-materials-cinabrio.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Cinabrio - Rojo</figcaption>
 	</figure>	
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-cardenillo.jpg" alt="Non-key areas of image blurred out">
+		<img  data-src="images/islamic-materials-cardenillo.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Cardenillo - Verde</figcaption>
 	</figure>	
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-oroplata.jpg" alt="Non-key areas of image blurred out">
+		<img  data-src="images/islamic-materials-oroplata.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Oro y plata</figcaption>
 	</figure>
 	<figure>
-		<img class="plain" data-src="images/islamic-materials-cerusita.jpg" alt="Non-key areas of image blurred out">
+		<img  data-src="images/islamic-materials-cerusita.jpg" alt="Non-key areas of image blurred out">
 		<figcaption>Cerusita o albayalde</figcaption>
 	</figure>
 </div>

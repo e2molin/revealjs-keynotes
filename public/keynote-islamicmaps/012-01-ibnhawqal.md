@@ -19,33 +19,72 @@ La principal diferencia entre la obra de ibn Ḥawqal y la de al-lstakhri está 
 
 Ya que no conservamos trabajos originales de los autores, sino copias manuscritas años posteriores, este tipo de datos es intersante para saber cuanto se parecen los mapas obra de los copistas a los originales. Los estudiosos como Kramers han realizado una clasificación de los textos atendiendo a las características del mapa.  Kramers clasifica  la obra de Istakhri en dos grupos, istakhri I y istakhri II. En esta clasificación, los primeros son mapas más geométricos que los segundos.
 
+
 #---------#
 
 
 ### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
 
-<div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-ibnHawqal.jpg" alt="Lorem Ipsum">
-    <figcaption>İstanbul Topkapı Sarayı Müzesi - MS 6527/ A. 3346, fols. 3b-4a<a href="http://www.myoldmaps.com/early-medieval-monographs/213-ibn-hawqals-world-map/213-ibn-hawqal.pdf" target="_blank">🔗</a></figcaption>
-  </figure>
+<div class="wrapperSlide">	
+  <div class="slideText">
+    <ul>
+      <li>⏳ Ms. 1086.</li>
+      <li><em>Kitāb Ṣūrat al-’Arḍ</em></li>
+      <li>👳 <strong>Ibn Ḥawqal</strong></li>
+      <li>📏 Diámetro 36.5 cm</li>
+      <li>🏛 İstanbul Topkapı Sarayı Müzesi</li>
+    </ul>
+    <p>Manuscrito conservado más antiguo dentro del corpus de mapas islámicos que incluye un compendio de mapas. ⏳ 1086. Tipología <strong>Ibn Hawqal I</strong> según la terminología de J.H. Kramers.</p>
+  </div>
+  <div class="slideContent portrait-img">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal.jpg" alt="Lorem Ipsum">
+        <figcaption>İstanbul Topkapı Sarayı Müzesi - MS 6527/ A. 3346, fols. 3b-4a<a href="http://www.myoldmaps.com/early-medieval-monographs/213-ibn-hawqals-world-map/213-ibn-hawqal.pdf" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal-trad.png" alt="Lorem Ipsum">
+        <figcaption>Transcripción <a href="http://www.myoldmaps.com/early-medieval-monographs/213-ibn-hawqals-world-map/213-ibn-hawqal.pdf" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>	    
+  </div>
 </div>
-<div class="l-simple fragment fade-in" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-ibnHawqal-trad.png" alt="Lorem Ipsum">
-    <figcaption>Transcripción <a href="http://www.myoldmaps.com/early-medieval-monographs/213-ibn-hawqals-world-map/213-ibn-hawqal.pdf" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>				
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Ms. 1086.</li>
-    <li><em>Kitāb Ṣūrat al-’Arḍ</em></li>
-    <li>👳 <strong>Ibn Ḥawqal</strong></li>
-    <li>📏 Diámetro 36.5 cm</li>
-    <li>🏛 İstanbul Topkapı Sarayı Müzesi</li>
-  </ul>
-  <p>Manuscrito conservado más antiguo dentro del corpus de mapas islámicos que incluye un compendio de mapas. ⏳ 1086. Tipología <strong>Ibn Hawqal I</strong> según la terminología de J.H. Kramers.</p>
+
+
+#---------#
+
+
+### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
+
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Ms. 1086.</li>
+      <li><em>Kitāb Ṣūrat al-’Arḍ</em></li>
+      <li>👳 <strong>Ibn Ḥawqal</strong></li>
+      <li>📏 Diámetro 36.5 cm</li>
+      <li>🏛 İstanbul Topkapı Sarayı Müzesi</li>
+    </ul>
+    <p>Manuscrito conservado más antiguo dentro del corpus de mapas islámicos que incluye un compendio de mapas. ⏳ 1086. Tipología <strong>Ibn Hawqal I</strong> según la terminología de J.H. Kramers.</p>
+  </div>
+  <div class="slideContent portrait-img">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal.jpg" alt="Lorem Ipsum">
+        <figcaption>İstanbul Topkapı Sarayı Müzesi - MS 6527/ A. 3346, fols. 3b-4a<a href="http://www.myoldmaps.com/early-medieval-monographs/213-ibn-hawqals-world-map/213-ibn-hawqal.pdf" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal-trad.png" alt="Lorem Ipsum">
+        <figcaption>Transcripción <a href="http://www.myoldmaps.com/early-medieval-monographs/213-ibn-hawqals-world-map/213-ibn-hawqal.pdf" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>				
+  </div>
 </div>
+
 
 Note:
 
@@ -57,54 +96,30 @@ Incluye abundante toponimia 👉 posible origen ptolemaico. Hidrografía fluvial
 
 ### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
 
-<div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:65vh" data-src="images/islamic-map-ibnHawqal1-mediterraneo.jpg" alt="Lorem Ipsum">
-    <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo. Siglo XV-XVI - İstanbul Topkapı Sarayı Müzesi, MS 6527/A 3346, ff. 20r-20v<a href="https://docplayer.es/23058626-Rebasando-los-pilares-de-hercules-el-estrecho-de-gibraltar-y-sus-ciudades-en-la-cartografia-historica.html" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>
-<div class="l-simple fragment fade-in" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:65vh" data-src="images/islamic-map-ibnHawqal1-mediterraneo-trad.jpg" alt="Lorem Ipsum">
-    <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo. Siglo XV-XVI - İstanbul Topkapı Sarayı Müzesi, MS 6527/A 3346, ff. 20r-20v<a href="https://docplayer.es/23058626-Rebasando-los-pilares-de-hercules-el-estrecho-de-gibraltar-y-sus-ciudades-en-la-cartografia-historica.html" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Manuscrito, Siglo XI.</li>
-    <li>📜 Mar Mediterráneo.</li>
-    <li>👳 <strong>Ibn Ḥawqal</strong>.</li>
-    <li>🏛 İstanbul Topkapı Sarayı Müzesi.</li>
-  </ul>
-  <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal I</strong>.</p>
-</div>
-
-
-#---------#
-
-
-### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
-
-<div class="l-simple fragment fade-out" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-ibnHawqal2-mediterraneo.jpg" alt="Lorem Ipsum">
-    <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo - İstanbul Topkapı Sarayı Müzesi, MS Ahmet 3346, ff. 58b<a href="https://journals.openedition.org/belgeo/8801?gathStatIcon=true&lang=en" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>
-<div class="l-simple fragment fade-in" style="position:absolute;" data-fragment-index="0">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-ibnHawqal2-mediterraneo-trad.jpg" alt="Lorem Ipsum">
-    <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo - İstanbul Topkapı Sarayı Müzesi, Transcripción<a href="https://journals.openedition.org/belgeo/8801?gathStatIcon=true&lang=en" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Manuscrito, 1086.</li>
-    <li>📜Mar Mediterráneo.</li>
-    <li>👳 <strong>Ibn Ḥawqal</strong>.</li>
-    <li>🏛 İstanbul Topkapı Sarayı Müzesi.</li>
-  </ul>
-  <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal II</strong>.</p>
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, Siglo XI.</li>
+      <li>📜 Mar Mediterráneo.</li>
+      <li>👳 <strong>Ibn Ḥawqal</strong>.</li>
+      <li>🏛 İstanbul Topkapı Sarayı Müzesi.</li>
+    </ul>
+    <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal I</strong>.</p>
+  </div>
+  <div class="slideContent">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal1-mediterraneo.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo. Siglo XV-XVI - İstanbul Topkapı Sarayı Müzesi, MS 6527/A 3346, ff. 20r-20v<a href="https://docplayer.es/23058626-Rebasando-los-pilares-de-hercules-el-estrecho-de-gibraltar-y-sus-ciudades-en-la-cartografia-historica.html" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal1-mediterraneo-trad.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo. Siglo XV-XVI - İstanbul Topkapı Sarayı Müzesi, MS 6527/A 3346, ff. 20r-20v<a href="https://docplayer.es/23058626-Rebasando-los-pilares-de-hercules-el-estrecho-de-gibraltar-y-sus-ciudades-en-la-cartografia-historica.html" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+  </div>
 </div>
 
 
@@ -113,22 +128,56 @@ Incluye abundante toponimia 👉 posible origen ptolemaico. Hidrografía fluvial
 
 ### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
 
-<div class="l-simple">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-ibnHawqal3-mediterraneo.jpg" alt="Lorem Ipsum">
-    <figcaption>KMMS, Ṣūrat Baḥr ar-rūm -  Bibliothèque nationale de France - Ms Arabe 2214 fols. 9v, 10r<a href="https://gallica.bnf.fr/ark:/12148/btv1b84061557/f77.item" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Manuscrito, 1445</li>
-    <li>📜 Ṣūrat Baḥr ar-rūm</li>
-    <li>📜 Mar Mediterráneo</li>
-    <li>👳 <strong>Ibn Ḥawqal</strong></li>
-    <li>🏛 BnF, París</li>
-  </ul>
-  <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal III</strong>.</p>
-</div>								
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1086.</li>
+      <li>📜Mar Mediterráneo.</li>
+      <li>👳 <strong>Ibn Ḥawqal</strong>.</li>
+      <li>🏛 İstanbul Topkapı Sarayı Müzesi.</li>
+    </ul>
+    <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal II</strong>.</p>
+  </div>
+  <div class="slideContent">
+    <div class="fragment fade-out" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img class="full" data-src="images/islamic-map-ibnHawqal2-mediterraneo.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo - İstanbul Topkapı Sarayı Müzesi, MS Ahmet 3346, ff. 58b<a href="https://journals.openedition.org/belgeo/8801?gathStatIcon=true&lang=en" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+    <div class="fragment fade-in" style="position:absolute;" data-fragment-index="0">
+      <figure>
+        <img class="full" data-src="images/islamic-map-ibnHawqal2-mediterraneo-trad.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Baḥr ar-rūm. Mediterráneo - İstanbul Topkapı Sarayı Müzesi, Transcripción<a href="https://journals.openedition.org/belgeo/8801?gathStatIcon=true&lang=en" target="_blank">🔗</a></figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
+
+
+#---------#
+
+
+### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
+
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1445</li>
+      <li>📜 Ṣūrat Baḥr ar-rūm</li>
+      <li>📜 Mar Mediterráneo</li>
+      <li>👳 <strong>Ibn Ḥawqal</strong></li>
+      <li>🏛 BnF, París</li>
+    </ul>
+    <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal III</strong>.</p>
+  </div>
+  <div class="slideContent">
+      <figure>
+        <img data-src="images/islamic-map-ibnHawqal3-mediterraneo.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Ṣūrat Baḥr ar-rūm -  Bibliothèque nationale de France - Ms Arabe 2214 fols. 9v, 10r<a href="https://gallica.bnf.fr/ark:/12148/btv1b84061557/f77.item" target="_blank">🔗</a></figcaption>
+      </figure>		
+  </div>
+</div>
 
 
 Note:
@@ -149,21 +198,24 @@ Note:
 
 ### Kitāb Ṣūrat al-’Arḍ (La Faz de la Tierra)
 
-<div class="l-simple">
-  <figure>
-    <img class="full" style="max-height:60vh" data-src="images/islamic-map-ibnHawqal3-planisferio.jpg" alt="Lorem Ipsum">
-    <figcaption>KMMS, Planisferio -  Bibliothèque nationale de France - Ms Arabe 2214 fol. 53<a href="https://gallica.bnf.fr/ark:/12148/btv1b84061557" target="_blank">🔗</a></figcaption>
-  </figure>
-</div>						
-<div class="sidebarRight">
-  <ul>
-    <li>⏳ Manuscrito, 1445</li>
-    <li>📜 Mapamundi</li>
-    <li>👳 <strong>Ibn Ḥawqal</strong></li>
-    <li>🏛 BnF, París</li>
-  </ul>
-  <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal III</strong>.</p>
+<div class="wrapperSlide">
+  <div class="slideText">
+    <ul>
+      <li>⏳ Manuscrito, 1445</li>
+      <li>📜 Mapamundi</li>
+      <li>👳 <strong>Ibn Ḥawqal</strong></li>
+      <li>🏛 BnF, París</li>
+    </ul>
+    <p>En la terminología de J.H. Kramer, este mapa corresponde a <strong>Ibn Ḥawqal III</strong>.</p>
+  </div>
+  <div class="slideContent">
+      <figure>
+        <img class="full"  data-src="images/islamic-map-ibnHawqal3-planisferio.jpg" alt="Lorem Ipsum">
+        <figcaption>KMMS, Planisferio -  Bibliothèque nationale de France - Ms Arabe 2214 fol. 53<a href="https://gallica.bnf.fr/ark:/12148/btv1b84061557" target="_blank">🔗</a></figcaption>
+      </figure>
+  </div>
 </div>
+
 
 Note:
 

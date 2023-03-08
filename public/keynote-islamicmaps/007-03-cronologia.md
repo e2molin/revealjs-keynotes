@@ -73,7 +73,7 @@ Le sucede su hermano **Al-Mansur** (👑754-775), que traslada la capital a Bagd
 #---------#
 
 
-<img class="full" style="max-height:70vh" data-src="images/assets-expansion-islamica-timeline.jpg" alt="Lorem Ipsum">
+<img  data-src="images/assets-expansion-islamica-timeline.jpg" alt="Lorem Ipsum">
 
 
 

@@ -1,24 +1,24 @@
 ### Características
 
-<div class="multiple-3x2">
+<div class="layout-3x2">
   <figure>
-    <img class="plain" data-src="images/islamic-map-balkhi-istakhri-persico.jpg" alt="Non-key areas of image blurred out">
+    <img  data-src="images/islamic-map-balkhi-istakhri-persico.jpg" alt="Non-key areas of image blurred out">
     <figcaption>Ilustrativa</figcaption>
   </figure>
   <figure>
-    <img class="plain" data-src="images/islamic-caract-simplicity.jpg" title="Detalle Mapa KMMS de la zona del MAr Caspio y Aral. Anónimo. Sülemaniye Camii Kütüphanesi,Istanbul. Aya Sofya 2971a, f. 3a">
+    <img data-src="images/islamic-caract-simplicity.jpg" title="Detalle Mapa KMMS de la zona del MAr Caspio y Aral. Anónimo. Sülemaniye Camii Kütüphanesi,Istanbul. Aya Sofya 2971a, f. 3a">
     <figcaption>Simplificada. Caspio y Aral. Límites administrativos</figcaption>
   </figure>
   <figure>
-    <img class="plain"  data-src="images/islamic-caract-islas.jpg" title="Mapa del golfo Pérsico, Siglos XIV-XV. Basado en los mapas de al-Istakhri. Central Library, Tehran University">
+    <img data-src="images/islamic-caract-islas.jpg" title="Mapa del golfo Pérsico, Siglos XIV-XV. Basado en los mapas de al-Istakhri. Central Library, Tehran University">
     <figcaption>Islas principales en el Índico</figcaption>
   </figure>							
   <figure>
-    <img class="plain" data-src="images/islamic-caract-costas.jpg" title="1424 - KMMS world map from al-Istakhri - Topkapy Saray Museum">
+    <img data-src="images/islamic-caract-costas.jpg" title="1424 - KMMS world map from al-Istakhri - Topkapy Saray Museum">
     <figcaption>Costas delineadas con regla y compás</figcaption>
   </figure>	
   <figure>
-    <img class="plain"  data-src="images/islamic-caract-caligrafia.jpg" alt="Non-key areas of image blurred out">
+    <img data-src="images/islamic-caract-caligrafia.jpg" alt="Non-key areas of image blurred out">
     <figcaption>Caligrafía</figcaption>
   </figure>
 </div>
