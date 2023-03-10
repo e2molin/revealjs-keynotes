@@ -2,7 +2,18 @@
 
 ## Plantillas
 
-Diapositiva con texto en columna a la izquierda
+### Slide con imagen centrada y pie de imagen 
+
+```html
+<figure>
+    <img class="plain" style="max-height:60vh" data-src="images/mapwomen/woman-illuminated-ms.jpg" alt="Lorem ipsum">
+    <figcaption><em>Marie de France</em>. BnF, Arsenal Library, Ms. 3142 fol. 256. Wikidata
+    <a href="[#](https://commons.wikimedia.org/wiki/File:Marie_de_France_1.tif)" target="_blank">🔗</a></figcaption>
+</figure>
+```
+
+
+### Diapositiva con texto en columna a la izquierda
 
 ```html
 <div class="wrapperSlide">
