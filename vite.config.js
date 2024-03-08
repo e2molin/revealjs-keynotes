@@ -3,7 +3,7 @@ import { resolve } from 'path'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/keynotes/mapwomen/', // Para servir desde un directorio que no es base path
+  base: '/cartocatalog/apps/islamicos/', // Para servir desde un directorio que no es base path
   build: {
     rollupOptions: {
       input: {

@@ -1,5 +1,9 @@
 # Arquetipo presentaciones con Reveal.js
 
+Instalación
+
+
+
 ## Plantillas
 
 ### Slide con imagen centrada y pie de imagen 
