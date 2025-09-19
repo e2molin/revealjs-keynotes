@@ -34,11 +34,11 @@ const contentKeynote = /*html*/`
                           data-separator-notes="^Note:" 
                           data-charset="utf-8"
                           data-background-transition="zoom" 
-                          data-background-image=${bgIGN} 
+                          data-background-image=${bgPaper} 
                           data-background-opacity=0.25 
                           data-background-size=120% >
                 </section>
-
+<!--
                 <section id="slide-1" 
                   data-background-transition="zoom" 
                   data-background-image=${bgMiddleAge} 
@@ -53,7 +53,7 @@ const contentKeynote = /*html*/`
                     data-charset="utf-8">
                   </section>
               </section>
-
+-->
 
 
                 <!-- Final Keynote-->
